@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Matériaux - Cathédrale d'Amiens</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-900 p-6">
+  <div class="max-w-7xl mx-auto">
+    <h1 class="text-3xl font-bold mb-6">Liste des matériaux — Cathédrale d'Amiens</h1>
+
+    <input type="text" id="searchInput" placeholder="Recherche..." class="mb-4 p-2 border border-gray-300 rounded w-full">
+
+    <div class="overflow-x-auto">
+      <table class="min-w-full bg-white shadow-md rounded-lg overflow-hidden">
+        <thead class="bg-gray-800 text-white">
+          <tr>
+            <th class="p-3 text-left cursor-pointer" onclick="sortTable(0)">Bloc</th>
+            <th class="p-3 text-right cursor-pointer" onclick="sortTable(1)">Total</th>
+            <th class="p-3 text-right cursor-pointer" onclick="sortTable(2)">Manquant</th>
+            <th class="p-3 text-right cursor-pointer" onclick="sortTable(3)">Disponible</th>
+          </tr>
+        </thead>
+        <tbody id="materialsTable">
+          <!-- Les lignes seront insérées ici par JS -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    let data = [];
+    let currentSortCol = null;
+    let currentSortAsc = true;
+
+    const tableBody = document.getElementById('materialsTable');
+    const searchInput = document.getElementById('searchInput');
+
+    function renderTable(filteredData) {
+      tableBody.innerHTML = '';
+      filteredData.forEach(row => {
+        tableBody.innerHTML += `
+          <tr class="border-b hover:bg-gray-100">
+            <td class="p-3">${row.item}</td>
+            <td class="p-3 text-right">${row.total}</td>
+            <td class="p-3 text-right">${row.missing}</td>
+            <td class="p-3 text-right">${row.available}</td>
+          </tr>
+        `;
+      });
+    }
+
+    function sortTable(colIndex) {
+      const key = ["item", "total", "missing", "available"][colIndex];
+      currentSortAsc = currentSortCol === colIndex ? !currentSortAsc : true;
+      currentSortCol = colIndex;
+      const sorted = [...data].sort((a, b) => {
+        if (typeof a[key] === "string") {
+          return currentSortAsc ? a[key].localeCompare(b[key]) : b[key].localeCompare(a[key]);
+        } else {
+          return currentSortAsc ? a[key] - b[key] : b[key] - a[key];
+        }
+      });
+      renderTable(sorted);
+    }
+
+    searchInput.addEventListener("input", () => {
+      const q = searchInput.value.toLowerCase();
+      const filtered = data.filter(row => row.item.toLowerCase().includes(q));
+      renderTable(filtered);
+    });
+
+    fetch('./material_list_cathédrale_Amiens.json')
+      .then(response => response.json())
+      .then(json => {
+        data = json;
+        renderTable(data);
+      })
+      .catch(error => {
+        console.error("Erreur de chargement du fichier JSON :", error);
+      });
+  </script>
+</body>
+</html>

@@ -1,0 +1,1220 @@
+[
+  {
+    "item": "Stone",
+    "total": 25339,
+    "missing": 25339,
+    "available": 0
+  },
+  {
+    "item": "Andesite",
+    "total": 10751,
+    "missing": 10751,
+    "available": 0
+  },
+  {
+    "item": "Grass Block",
+    "total": 9439,
+    "missing": 9439,
+    "available": 0
+  },
+  {
+    "item": "Cobblestone",
+    "total": 9072,
+    "missing": 9072,
+    "available": 0
+  },
+  {
+    "item": "Andesite Wall",
+    "total": 8510,
+    "missing": 8510,
+    "available": 0
+  },
+  {
+    "item": "Polished Andesite",
+    "total": 7019,
+    "missing": 7019,
+    "available": 0
+  },
+  {
+    "item": "Stone Brick Wall",
+    "total": 6496,
+    "missing": 6496,
+    "available": 0
+  },
+  {
+    "item": "Smooth Stone Slab",
+    "total": 5288,
+    "missing": 5288,
+    "available": 0
+  },
+  {
+    "item": "Stripped Dark Oak Log",
+    "total": 4072,
+    "missing": 4072,
+    "available": 0
+  },
+  {
+    "item": "Stone Brick Stairs",
+    "total": 4005,
+    "missing": 4005,
+    "available": 0
+  },
+  {
+    "item": "Polished Andesite Stairs",
+    "total": 3474,
+    "missing": 3474,
+    "available": 0
+  },
+  {
+    "item": "Stone Bricks",
+    "total": 2725,
+    "missing": 2725,
+    "available": 0
+  },
+  {
+    "item": "Deepslate Bricks",
+    "total": 2531,
+    "missing": 2531,
+    "available": 0
+  },
+  {
+    "item": "Crimson Fence",
+    "total": 2503,
+    "missing": 2503,
+    "available": 0
+  },
+  {
+    "item": "Prismarine Bricks",
+    "total": 2274,
+    "missing": 2274,
+    "available": 0
+  },
+  {
+    "item": "Deepslate",
+    "total": 2201,
+    "missing": 2201,
+    "available": 0
+  },
+  {
+    "item": "Polished Diorite Slab",
+    "total": 1767,
+    "missing": 1767,
+    "available": 0
+  },
+  {
+    "item": "Obsidian",
+    "total": 1744,
+    "missing": 1744,
+    "available": 0
+  },
+  {
+    "item": "Black Stained Glass Pane",
+    "total": 1722,
+    "missing": 1722,
+    "available": 0
+  },
+  {
+    "item": "Prismarine Brick Slab",
+    "total": 1682,
+    "missing": 1682,
+    "available": 0
+  },
+  {
+    "item": "Polished Andesite Slab",
+    "total": 1639,
+    "missing": 1639,
+    "available": 0
+  },
+  {
+    "item": "Deepslate Tile Stairs",
+    "total": 1616,
+    "missing": 1616,
+    "available": 0
+  },
+  {
+    "item": "Dark Prismarine",
+    "total": 1429,
+    "missing": 1429,
+    "available": 0
+  },
+  {
+    "item": "Snow",
+    "total": 1429,
+    "missing": 1429,
+    "available": 0
+  },
+  {
+    "item": "Deepslate Tile Slab",
+    "total": 1276,
+    "missing": 1276,
+    "available": 0
+  },
+  {
+    "item": "Polished Diorite",
+    "total": 1276,
+    "missing": 1276,
+    "available": 0
+  },
+  {
+    "item": "Polished Blackstone",
+    "total": 1222,
+    "missing": 1222,
+    "available": 0
+  },
+  {
+    "item": "Blue Stained Glass Pane",
+    "total": 1219,
+    "missing": 1219,
+    "available": 0
+  },
+  {
+    "item": "Stone Brick Slab",
+    "total": 1217,
+    "missing": 1217,
+    "available": 0
+  },
+  {
+    "item": "Cobbled Deepslate Stairs",
+    "total": 1183,
+    "missing": 1183,
+    "available": 0
+  },
+  {
+    "item": "Iron Bars",
+    "total": 1173,
+    "missing": 1173,
+    "available": 0
+  },
+  {
+    "item": "Deepslate Brick Slab",
+    "total": 1144,
+    "missing": 1144,
+    "available": 0
+  },
+  {
+    "item": "Cobbled Deepslate Slab",
+    "total": 1118,
+    "missing": 1118,
+    "available": 0
+  },
+  {
+    "item": "Deepslate Brick Stairs",
+    "total": 988,
+    "missing": 988,
+    "available": 0
+  },
+  {
+    "item": "Light Blue Stained Glass Pane",
+    "total": 952,
+    "missing": 952,
+    "available": 0
+  },
+  {
+    "item": "Chiseled Stone Bricks",
+    "total": 864,
+    "missing": 864,
+    "available": 0
+  },
+  {
+    "item": "Polished Diorite Stairs",
+    "total": 826,
+    "missing": 826,
+    "available": 0
+  },
+  {
+    "item": "Red Stained Glass Pane",
+    "total": 775,
+    "missing": 775,
+    "available": 0
+  },
+  {
+    "item": "Purple Stained Glass Pane",
+    "total": 761,
+    "missing": 761,
+    "available": 0
+  },
+  {
+    "item": "Purpur Block",
+    "total": 732,
+    "missing": 732,
+    "available": 0
+  },
+  {
+    "item": "Deepslate Tiles",
+    "total": 704,
+    "missing": 704,
+    "available": 0
+  },
+  {
+    "item": "Dark Prismarine Slab",
+    "total": 698,
+    "missing": 698,
+    "available": 0
+  },
+  {
+    "item": "Dark Prismarine Stairs",
+    "total": 667,
+    "missing": 667,
+    "available": 0
+  },
+  {
+    "item": "Polished Deepslate Wall",
+    "total": 616,
+    "missing": 616,
+    "available": 0
+  },
+  {
+    "item": "Purpur Slab",
+    "total": 570,
+    "missing": 570,
+    "available": 0
+  },
+  {
+    "item": "Torch",
+    "total": 548,
+    "missing": 548,
+    "available": 14
+  },
+  {
+    "item": "Cracked Stone Bricks",
+    "total": 529,
+    "missing": 529,
+    "available": 0
+  },
+  {
+    "item": "Prismarine Brick Stairs",
+    "total": 519,
+    "missing": 519,
+    "available": 0
+  },
+  {
+    "item": "Polished Deepslate",
+    "total": 516,
+    "missing": 516,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Slab",
+    "total": 490,
+    "missing": 490,
+    "available": 0
+  },
+  {
+    "item": "White Stained Glass",
+    "total": 474,
+    "missing": 474,
+    "available": 0
+  },
+  {
+    "item": "Anvil",
+    "total": 453,
+    "missing": 453,
+    "available": 0
+  },
+  {
+    "item": "Smooth Basalt",
+    "total": 452,
+    "missing": 452,
+    "available": 0
+  },
+  {
+    "item": "Lime Stained Glass Pane",
+    "total": 400,
+    "missing": 400,
+    "available": 0
+  },
+  {
+    "item": "Sea Lantern",
+    "total": 379,
+    "missing": 379,
+    "available": 0
+  },
+  {
+    "item": "End Rod",
+    "total": 368,
+    "missing": 368,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Stairs",
+    "total": 360,
+    "missing": 360,
+    "available": 0
+  },
+  {
+    "item": "Stone Stairs",
+    "total": 360,
+    "missing": 360,
+    "available": 0
+  },
+  {
+    "item": "Cracked Deepslate Bricks",
+    "total": 357,
+    "missing": 357,
+    "available": 0
+  },
+  {
+    "item": "Spruce Stairs",
+    "total": 337,
+    "missing": 337,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Trapdoor",
+    "total": 332,
+    "missing": 332,
+    "available": 0
+  },
+  {
+    "item": "Cracked Deepslate Tiles",
+    "total": 331,
+    "missing": 331,
+    "available": 0
+  },
+  {
+    "item": "Polished Blackstone Bricks",
+    "total": 307,
+    "missing": 307,
+    "available": 0
+  },
+  {
+    "item": "Black Stained Glass",
+    "total": 305,
+    "missing": 305,
+    "available": 0
+  },
+  {
+    "item": "Warped Trapdoor",
+    "total": 293,
+    "missing": 293,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Planks",
+    "total": 254,
+    "missing": 254,
+    "available": 0
+  },
+  {
+    "item": "Dirt",
+    "total": 238,
+    "missing": 238,
+    "available": 0
+  },
+  {
+    "item": "Deepslate Tile Wall",
+    "total": 234,
+    "missing": 234,
+    "available": 0
+  },
+  {
+    "item": "Cracked Polished Blackstone Bricks",
+    "total": 231,
+    "missing": 231,
+    "available": 0
+  },
+  {
+    "item": "Stone Slab",
+    "total": 230,
+    "missing": 230,
+    "available": 0
+  },
+  {
+    "item": "Stripped Dark Oak Wood",
+    "total": 221,
+    "missing": 221,
+    "available": 0
+  },
+  {
+    "item": "Cobbled Deepslate",
+    "total": 202,
+    "missing": 202,
+    "available": 0
+  },
+  {
+    "item": "End Stone Brick Wall",
+    "total": 190,
+    "missing": 190,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Fence",
+    "total": 162,
+    "missing": 162,
+    "available": 0
+  },
+  {
+    "item": "Chain",
+    "total": 161,
+    "missing": 161,
+    "available": 0
+  },
+  {
+    "item": "Spruce Planks",
+    "total": 161,
+    "missing": 161,
+    "available": 0
+  },
+  {
+    "item": "Gray Stained Glass Pane",
+    "total": 155,
+    "missing": 155,
+    "available": 0
+  },
+  {
+    "item": "Oak Stairs",
+    "total": 148,
+    "missing": 148,
+    "available": 0
+  },
+  {
+    "item": "Purpur Stairs",
+    "total": 148,
+    "missing": 148,
+    "available": 0
+  },
+  {
+    "item": "Light Gray Carpet",
+    "total": 147,
+    "missing": 147,
+    "available": 0
+  },
+  {
+    "item": "Black Carpet",
+    "total": 146,
+    "missing": 146,
+    "available": 0
+  },
+  {
+    "item": "Polished Basalt",
+    "total": 136,
+    "missing": 136,
+    "available": 0
+  },
+  {
+    "item": "Cobblestone Wall",
+    "total": 131,
+    "missing": 131,
+    "available": 0
+  },
+  {
+    "item": "Candle",
+    "total": 129,
+    "missing": 129,
+    "available": 0
+  },
+  {
+    "item": "Pink Terracotta",
+    "total": 128,
+    "missing": 128,
+    "available": 0
+  },
+  {
+    "item": "Black Concrete",
+    "total": 116,
+    "missing": 116,
+    "available": 0
+  },
+  {
+    "item": "Deepslate Brick Wall",
+    "total": 114,
+    "missing": 114,
+    "available": 0
+  },
+  {
+    "item": "Stone Button",
+    "total": 114,
+    "missing": 114,
+    "available": 0
+  },
+  {
+    "item": "Andesite Slab",
+    "total": 111,
+    "missing": 111,
+    "available": 0
+  },
+  {
+    "item": "Quartz Stairs",
+    "total": 111,
+    "missing": 111,
+    "available": 0
+  },
+  {
+    "item": "Granite",
+    "total": 109,
+    "missing": 109,
+    "available": 0
+  },
+  {
+    "item": "Block of Quartz",
+    "total": 107,
+    "missing": 107,
+    "available": 0
+  },
+  {
+    "item": "Blue Stained Glass",
+    "total": 107,
+    "missing": 107,
+    "available": 0
+  },
+  {
+    "item": "Ladder",
+    "total": 97,
+    "missing": 97,
+    "available": 0
+  },
+  {
+    "item": "Dirt Path",
+    "total": 96,
+    "missing": 96,
+    "available": 0
+  },
+  {
+    "item": "Polished Blackstone Wall",
+    "total": 94,
+    "missing": 94,
+    "available": 0
+  },
+  {
+    "item": "Polished Blackstone Stairs",
+    "total": 93,
+    "missing": 93,
+    "available": 0
+  },
+  {
+    "item": "Smooth Stone",
+    "total": 91,
+    "missing": 91,
+    "available": 0
+  },
+  {
+    "item": "Granite Wall",
+    "total": 85,
+    "missing": 85,
+    "available": 0
+  },
+  {
+    "item": "Andesite Stairs",
+    "total": 84,
+    "missing": 84,
+    "available": 0
+  },
+  {
+    "item": "Jungle Stairs",
+    "total": 82,
+    "missing": 82,
+    "available": 0
+  },
+  {
+    "item": "Cobbled Deepslate Wall",
+    "total": 80,
+    "missing": 80,
+    "available": 0
+  },
+  {
+    "item": "Light Blue Stained Glass",
+    "total": 79,
+    "missing": 79,
+    "available": 0
+  },
+  {
+    "item": "Purple Terracotta",
+    "total": 78,
+    "missing": 78,
+    "available": 0
+  },
+  {
+    "item": "Quartz Pillar",
+    "total": 74,
+    "missing": 74,
+    "available": 0
+  },
+  {
+    "item": "Spruce Door",
+    "total": 73,
+    "missing": 73,
+    "available": 0
+  },
+  {
+    "item": "Diorite Slab",
+    "total": 72,
+    "missing": 72,
+    "available": 0
+  },
+  {
+    "item": "Blackstone Wall",
+    "total": 71,
+    "missing": 71,
+    "available": 0
+  },
+  {
+    "item": "Quartz Slab",
+    "total": 71,
+    "missing": 71,
+    "available": 0
+  },
+  {
+    "item": "Chiseled Deepslate",
+    "total": 70,
+    "missing": 70,
+    "available": 0
+  },
+  {
+    "item": "Polished Blackstone Slab",
+    "total": 69,
+    "missing": 69,
+    "available": 0
+  },
+  {
+    "item": "Diorite Wall",
+    "total": 68,
+    "missing": 68,
+    "available": 0
+  },
+  {
+    "item": "Furnace",
+    "total": 66,
+    "missing": 66,
+    "available": 0
+  },
+  {
+    "item": "Crimson Slab",
+    "total": 62,
+    "missing": 62,
+    "available": 0
+  },
+  {
+    "item": "Ancient Debris",
+    "total": 60,
+    "missing": 60,
+    "available": 0
+  },
+  {
+    "item": "Crimson Trapdoor",
+    "total": 60,
+    "missing": 60,
+    "available": 0
+  },
+  {
+    "item": "Gray Stained Glass",
+    "total": 60,
+    "missing": 60,
+    "available": 0
+  },
+  {
+    "item": "Spruce Fence",
+    "total": 57,
+    "missing": 57,
+    "available": 0
+  },
+  {
+    "item": "Spruce Sign",
+    "total": 56,
+    "missing": 56,
+    "available": 0
+  },
+  {
+    "item": "Brown Terracotta",
+    "total": 55,
+    "missing": 55,
+    "available": 0
+  },
+  {
+    "item": "Basalt",
+    "total": 54,
+    "missing": 54,
+    "available": 0
+  },
+  {
+    "item": "Note Block",
+    "total": 53,
+    "missing": 53,
+    "available": 0
+  },
+  {
+    "item": "Nether Brick Fence",
+    "total": 52,
+    "missing": 52,
+    "available": 0
+  },
+  {
+    "item": "Lectern",
+    "total": 48,
+    "missing": 48,
+    "available": 0
+  },
+  {
+    "item": "Oak Sign",
+    "total": 45,
+    "missing": 45,
+    "available": 0
+  },
+  {
+    "item": "Spruce Trapdoor",
+    "total": 45,
+    "missing": 45,
+    "available": 0
+  },
+  {
+    "item": "Crimson Planks",
+    "total": 44,
+    "missing": 44,
+    "available": 0
+  },
+  {
+    "item": "Crimson Stairs",
+    "total": 43,
+    "missing": 43,
+    "available": 0
+  },
+  {
+    "item": "Polished Blackstone Brick Wall",
+    "total": 40,
+    "missing": 40,
+    "available": 0
+  },
+  {
+    "item": "Polished Granite",
+    "total": 40,
+    "missing": 40,
+    "available": 0
+  },
+  {
+    "item": "Purple Stained Glass",
+    "total": 40,
+    "missing": 40,
+    "available": 0
+  },
+  {
+    "item": "Red Stained Glass",
+    "total": 39,
+    "missing": 39,
+    "available": 0
+  },
+  {
+    "item": "Diorite Stairs",
+    "total": 37,
+    "missing": 37,
+    "available": 0
+  },
+  {
+    "item": "Nether Brick Wall",
+    "total": 36,
+    "missing": 36,
+    "available": 0
+  },
+  {
+    "item": "Polished Blackstone Brick Stairs",
+    "total": 36,
+    "missing": 36,
+    "available": 0
+  },
+  {
+    "item": "Lodestone",
+    "total": 30,
+    "missing": 30,
+    "available": 0
+  },
+  {
+    "item": "Flower Pot",
+    "total": 27,
+    "missing": 27,
+    "available": 0
+  },
+  {
+    "item": "Polished Granite Slab",
+    "total": 25,
+    "missing": 25,
+    "available": 0
+  },
+  {
+    "item": "Smooth Quartz Slab",
+    "total": 24,
+    "missing": 24,
+    "available": 0
+  },
+  {
+    "item": "Lightning Rod",
+    "total": 22,
+    "missing": 22,
+    "available": 0
+  },
+  {
+    "item": "Blackstone Slab",
+    "total": 21,
+    "missing": 21,
+    "available": 0
+  },
+  {
+    "item": "Grindstone",
+    "total": 21,
+    "missing": 21,
+    "available": 0
+  },
+  {
+    "item": "Jungle Sign",
+    "total": 21,
+    "missing": 21,
+    "available": 0
+  },
+  {
+    "item": "Polished Blackstone Button",
+    "total": 20,
+    "missing": 20,
+    "available": 0
+  },
+  {
+    "item": "Calcite",
+    "total": 19,
+    "missing": 19,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Door",
+    "total": 17,
+    "missing": 17,
+    "available": 0
+  },
+  {
+    "item": "Blue Terracotta",
+    "total": 16,
+    "missing": 16,
+    "available": 0
+  },
+  {
+    "item": "Gray Terracotta",
+    "total": 15,
+    "missing": 15,
+    "available": 0
+  },
+  {
+    "item": "Smooth Quartz Block",
+    "total": 15,
+    "missing": 15,
+    "available": 0
+  },
+  {
+    "item": "Waxed Exposed Copper",
+    "total": 15,
+    "missing": 15,
+    "available": 0
+  },
+  {
+    "item": "Spruce Log",
+    "total": 13,
+    "missing": 13,
+    "available": 0
+  },
+  {
+    "item": "Granite Slab",
+    "total": 12,
+    "missing": 12,
+    "available": 0
+  },
+  {
+    "item": "Light Gray Terracotta",
+    "total": 12,
+    "missing": 12,
+    "available": 0
+  },
+  {
+    "item": "Podzol",
+    "total": 12,
+    "missing": 12,
+    "available": 0
+  },
+  {
+    "item": "Smooth Quartz Stairs",
+    "total": 12,
+    "missing": 12,
+    "available": 0
+  },
+  {
+    "item": "Gray Carpet",
+    "total": 11,
+    "missing": 11,
+    "available": 0
+  },
+  {
+    "item": "Cobblestone Slab",
+    "total": 10,
+    "missing": 10,
+    "available": 0
+  },
+  {
+    "item": "Glowstone",
+    "total": 10,
+    "missing": 10,
+    "available": 0
+  },
+  {
+    "item": "Lime Stained Glass",
+    "total": 10,
+    "missing": 10,
+    "available": 0
+  },
+  {
+    "item": "Glass",
+    "total": 9,
+    "missing": 9,
+    "available": 0
+  },
+  {
+    "item": "Lantern",
+    "total": 9,
+    "missing": 9,
+    "available": 0
+  },
+  {
+    "item": "Polished Blackstone Brick Slab",
+    "total": 9,
+    "missing": 9,
+    "available": 0
+  },
+  {
+    "item": "Jungle Fence",
+    "total": 8,
+    "missing": 8,
+    "available": 0
+  },
+  {
+    "item": "Shulker Box",
+    "total": 8,
+    "missing": 8,
+    "available": 0
+  },
+  {
+    "item": "Smooth Sandstone Slab",
+    "total": 8,
+    "missing": 8,
+    "available": 0
+  },
+  {
+    "item": "Mossy Stone Bricks",
+    "total": 7,
+    "missing": 7,
+    "available": 0
+  },
+  {
+    "item": "Block of Gold",
+    "total": 6,
+    "missing": 6,
+    "available": 0
+  },
+  {
+    "item": "Chipped Anvil",
+    "total": 5,
+    "missing": 5,
+    "available": 0
+  },
+  {
+    "item": "Blue Candle",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Chiseled Quartz Block",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Cyan Stained Glass Pane",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Quartz Bricks",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Sandstone Stairs",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "White Terracotta",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Block of Redstone",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Cobblestone Stairs",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Green Shulker Box",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Nether Brick Stairs",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Redstone Lamp",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Smooth Sandstone Stairs",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Spruce Wood",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Waxed Exposed Cut Copper Stairs",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Block of Raw Gold",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Chiseled Polished Blackstone",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Cut Sandstone Slab",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Log",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Enchanting Table",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Gray Wool",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Ochre Froglight",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Sandstone Wall",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Soul Torch",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Wither Skeleton Skull",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Yellow Candle",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Cactus",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Cauldron",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Coal Ore",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Sign",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Light Gray Shulker Box",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Red Carpet",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Sandstone Slab",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Scaffolding",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Soul Lantern",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Stonecutter",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  }
+]
