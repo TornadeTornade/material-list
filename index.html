@@ -5,12 +5,31 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Matériaux - Cathédrale d'Amiens</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .block-icon {
+      width: 24px;
+      height: 24px;
+      object-fit: contain;
+      margin-right: 0.5rem;
+    }
+  </style>
 </head>
 <body class="bg-gray-100 text-gray-900 p-6">
   <div class="max-w-7xl mx-auto">
-    <h1 class="text-3xl font-bold mb-6">Liste des matériaux — Cathédrale d'Amiens</h1>
+    <h1 class="text-3xl font-bold mb-4">Liste des matériaux — Cathédrale d'Amiens</h1>
 
     <input type="text" id="searchInput" placeholder="Recherche..." class="mb-4 p-2 border border-gray-300 rounded w-full">
+
+    <div class="flex gap-2 mb-4">
+      <button onclick="applyFilter('all')" class="filter-btn bg-gray-300 hover:bg-gray-400 text-sm px-3 py-1 rounded">Tous</button>
+      <button onclick="applyFilter('missing')" class="filter-btn bg-red-200 hover:bg-red-300 text-sm px-3 py-1 rounded">Manquants</button>
+      <button onclick="applyFilter('available')" class="filter-btn bg-green-200 hover:bg-green-300 text-sm px-3 py-1 rounded">Disponibles</button>
+      <button onclick="applyFilter('complete')" class="filter-btn bg-blue-200 hover:bg-blue-300 text-sm px-3 py-1 rounded">Complets</button>
+    </div>
+
+    <div id="stats" class="mb-4 p-4 bg-white rounded shadow text-sm text-gray-800">
+      <!-- Statistiques insérées dynamiquement -->
+    </div>
 
     <div class="overflow-x-auto">
       <table class="min-w-full bg-white shadow-md rounded-lg overflow-hidden">
@@ -31,31 +50,79 @@
 
   <script>
     let data = [];
+    let filteredData = [];
     let currentSortCol = null;
     let currentSortAsc = true;
+    let currentFilter = 'all';
 
     const tableBody = document.getElementById('materialsTable');
     const searchInput = document.getElementById('searchInput');
+    const statsContainer = document.getElementById('stats');
 
-    function renderTable(filteredData) {
+    function getIconURL(blockName) {
+      const formatted = blockName.toLowerCase().replace(/ /g, '_').replace(/[^a-z0-9_]/g, '');
+      return `https://minecraft.wiki/images/${formatted}.png`;
+    }
+
+    function renderStats(rows) {
+      const totalBlocks = rows.reduce((sum, r) => sum + r.total, 0);
+      const totalAvailable = rows.reduce((sum, r) => sum + r.available, 0);
+      const totalMissing = totalBlocks - totalAvailable;
+      const percentDone = totalBlocks ? ((totalAvailable / totalBlocks) * 100).toFixed(1) : 0;
+      statsContainer.innerHTML = `
+        <div><strong>Blocs requis :</strong> ${totalBlocks.toLocaleString()}</div>
+        <div><strong>Blocs disponibles :</strong> ${totalAvailable.toLocaleString()}</div>
+        <div><strong>Blocs manquants :</strong> ${totalMissing.toLocaleString()}</div>
+        <div><strong>Avancement :</strong> ${percentDone}%</div>
+      `;
+    }
+
+    function renderTable(rows) {
       tableBody.innerHTML = '';
-      filteredData.forEach(row => {
+      rows.forEach(row => {
+        const iconUrl = getIconURL(row.item);
         tableBody.innerHTML += `
           <tr class="border-b hover:bg-gray-100">
-            <td class="p-3">${row.item}</td>
+            <td class="p-3 flex items-center">
+              <img src="${iconUrl}" alt="${row.item}" class="block-icon" onerror="this.style.display='none'">
+              ${row.item}
+            </td>
             <td class="p-3 text-right">${row.total}</td>
             <td class="p-3 text-right">${row.missing}</td>
             <td class="p-3 text-right">${row.available}</td>
           </tr>
         `;
       });
+      renderStats(rows);
+    }
+
+    function applyFilter(type) {
+      currentFilter = type;
+      updateFilteredData();
+    }
+
+    function updateFilteredData() {
+      const query = searchInput.value.toLowerCase();
+      filteredData = data.filter(row => {
+        const matchesSearch = row.item.toLowerCase().includes(query);
+        let matchesFilter = true;
+        if (currentFilter === 'missing') {
+          matchesFilter = row.available === 0;
+        } else if (currentFilter === 'available') {
+          matchesFilter = row.available > 0 && row.available < row.total;
+        } else if (currentFilter === 'complete') {
+          matchesFilter = row.available >= row.total;
+        }
+        return matchesSearch && matchesFilter;
+      });
+      renderTable(filteredData);
     }
 
     function sortTable(colIndex) {
       const key = ["item", "total", "missing", "available"][colIndex];
       currentSortAsc = currentSortCol === colIndex ? !currentSortAsc : true;
       currentSortCol = colIndex;
-      const sorted = [...data].sort((a, b) => {
+      const sorted = [...filteredData].sort((a, b) => {
         if (typeof a[key] === "string") {
           return currentSortAsc ? a[key].localeCompare(b[key]) : b[key].localeCompare(a[key]);
         } else {
@@ -65,17 +132,13 @@
       renderTable(sorted);
     }
 
-    searchInput.addEventListener("input", () => {
-      const q = searchInput.value.toLowerCase();
-      const filtered = data.filter(row => row.item.toLowerCase().includes(q));
-      renderTable(filtered);
-    });
+    searchInput.addEventListener("input", updateFilteredData);
 
     fetch('./material_list_cathédrale_Amiens.json')
       .then(response => response.json())
       .then(json => {
         data = json;
-        renderTable(data);
+        updateFilteredData();
       })
       .catch(error => {
         console.error("Erreur de chargement du fichier JSON :", error);
