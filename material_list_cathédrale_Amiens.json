@@ -3,7 +3,7 @@
     "item": "Stone",
     "total": 25339,
     "missing": 25339,
-    "available": 0
+    "available": 25339
   },
   {
     "item": "Andesite",
@@ -21,7 +21,7 @@
     "item": "Cobblestone",
     "total": 9072,
     "missing": 9072,
-    "available": 0
+    "available": Cobblestone
   },
   {
     "item": "Andesite Wall",
@@ -39,7 +39,7 @@
     "item": "Stone Brick Wall",
     "total": 6496,
     "missing": 6496,
-    "available": 0
+    "available": 6496
   },
   {
     "item": "Smooth Stone Slab",
@@ -1149,7 +1149,7 @@
     "item": "Wither Skeleton Skull",
     "total": 2,
     "missing": 2,
-    "available": 0
+    "available": 2
   },
   {
     "item": "Yellow Candle",
