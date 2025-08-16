@@ -14,8 +14,8 @@
   {
     "item": "Grass Block",
     "total": 9439,
-    "missing": 9439,
-    "available": 0
+    "missing": 0,
+    "available": 9439
   },
   {
     "item": "Cobblestone",
