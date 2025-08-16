@@ -44,8 +44,8 @@
   {
     "item": "Smooth Stone Slab",
     "total": 5288,
-    "missing": 5288,
-    "available": 0
+    "missing": 0,
+    "available": 5288
   },
   {
     "item": "Stripped Dark Oak Log",
