@@ -2,14 +2,14 @@
   {
     "item": "Stone",
     "total": 25339,
-    "missing": 25339,
+    "missing": 0,
     "available": 25339
   },
   {
     "item": "Andesite",
     "total": 10751,
-    "missing": 10751,
-    "available": 0
+    "missing": 0,
+    "available": 10751
   },
   {
     "item": "Grass Block",
@@ -20,7 +20,7 @@
   {
     "item": "Cobblestone",
     "total": 9072,
-    "missing": 9072,
+    "missing": 0,
     "available": 9072
   },
   {
@@ -38,7 +38,7 @@
   {
     "item": "Stone Brick Wall",
     "total": 6496,
-    "missing": 6496,
+    "missing": 0,
     "available": 6496
   },
   {
