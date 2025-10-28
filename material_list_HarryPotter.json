@@ -1,0 +1,3032 @@
+[
+  {
+    "item": "Stone",
+    "total": 2701126,
+    "missing": 2701126,
+    "available": 0
+  },
+  {
+    "item": "Andesite",
+    "total": 169667,
+    "missing": 169667,
+    "available": 0
+  },
+  {
+    "item": "Stone Bricks",
+    "total": 133712,
+    "missing": 133712,
+    "available": 0
+  },
+  {
+    "item": "Cobblestone",
+    "total": 121686,
+    "missing": 121686,
+    "available": 0
+  },
+  {
+    "item": "Gravel",
+    "total": 107992,
+    "missing": 107992,
+    "available": 0
+  },
+  {
+    "item": "Sand",
+    "total": 81792,
+    "missing": 81792,
+    "available": 0
+  },
+  {
+    "item": "Diorite",
+    "total": 42127,
+    "missing": 42127,
+    "available": 0
+  },
+  {
+    "item": "Mossy Cobblestone",
+    "total": 38664,
+    "missing": 38664,
+    "available": 0
+  },
+  {
+    "item": "Polished Granite",
+    "total": 38314,
+    "missing": 38314,
+    "available": 0
+  },
+  {
+    "item": "Spruce Planks",
+    "total": 34589,
+    "missing": 34589,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Planks",
+    "total": 33465,
+    "missing": 33465,
+    "available": 0
+  },
+  {
+    "item": "Mossy Stone Bricks",
+    "total": 19992,
+    "missing": 19992,
+    "available": 0
+  },
+  {
+    "item": "Dirt",
+    "total": 16229,
+    "missing": 16229,
+    "available": 0
+  },
+  {
+    "item": "Grass Block",
+    "total": 15261,
+    "missing": 15261,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Slab",
+    "total": 12297,
+    "missing": 12297,
+    "available": 0
+  },
+  {
+    "item": "Oak Leaves",
+    "total": 11871,
+    "missing": 11871,
+    "available": 0
+  },
+  {
+    "item": "Podzol",
+    "total": 11629,
+    "missing": 11629,
+    "available": 0
+  },
+  {
+    "item": "Coarse Dirt",
+    "total": 11518,
+    "missing": 11518,
+    "available": 0
+  },
+  {
+    "item": "Smooth Stone",
+    "total": 11178,
+    "missing": 11178,
+    "available": 0
+  },
+  {
+    "item": "Black Concrete",
+    "total": 10312,
+    "missing": 10312,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Stairs",
+    "total": 9606,
+    "missing": 9606,
+    "available": 0
+  },
+  {
+    "item": "Stone Brick Stairs",
+    "total": 9534,
+    "missing": 9534,
+    "available": 0
+  },
+  {
+    "item": "Spruce Slab",
+    "total": 8986,
+    "missing": 8986,
+    "available": 0
+  },
+  {
+    "item": "Stone Brick Slab",
+    "total": 8610,
+    "missing": 8610,
+    "available": 0
+  },
+  {
+    "item": "Cracked Stone Bricks",
+    "total": 8475,
+    "missing": 8475,
+    "available": 0
+  },
+  {
+    "item": "Vines",
+    "total": 8371,
+    "missing": 8371,
+    "available": 0
+  },
+  {
+    "item": "Polished Andesite",
+    "total": 7705,
+    "missing": 7705,
+    "available": 0
+  },
+  {
+    "item": "Dark Prismarine",
+    "total": 6618,
+    "missing": 6618,
+    "available": 0
+  },
+  {
+    "item": "Spruce Stairs",
+    "total": 6604,
+    "missing": 6604,
+    "available": 0
+  },
+  {
+    "item": "Cobblestone Stairs",
+    "total": 6091,
+    "missing": 6091,
+    "available": 0
+  },
+  {
+    "item": "Cobblestone Slab",
+    "total": 5855,
+    "missing": 5855,
+    "available": 0
+  },
+  {
+    "item": "Cobblestone Wall",
+    "total": 5728,
+    "missing": 5728,
+    "available": 0
+  },
+  {
+    "item": "Barrel",
+    "total": 5271,
+    "missing": 5271,
+    "available": 0
+  },
+  {
+    "item": "Block of Coal",
+    "total": 5093,
+    "missing": 5093,
+    "available": 0
+  },
+  {
+    "item": "Stripped Spruce Wood",
+    "total": 4705,
+    "missing": 4705,
+    "available": 0
+  },
+  {
+    "item": "Stripped Dark Oak Wood",
+    "total": 4559,
+    "missing": 4559,
+    "available": 0
+  },
+  {
+    "item": "Spruce Trapdoor",
+    "total": 4274,
+    "missing": 4274,
+    "available": 0
+  },
+  {
+    "item": "Obsidian",
+    "total": 3819,
+    "missing": 3819,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Trapdoor",
+    "total": 3812,
+    "missing": 3812,
+    "available": 0
+  },
+  {
+    "item": "Gray Stained Glass Pane",
+    "total": 3697,
+    "missing": 3697,
+    "available": 0
+  },
+  {
+    "item": "Bookshelf",
+    "total": 3578,
+    "missing": 3578,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Fence",
+    "total": 3390,
+    "missing": 3390,
+    "available": 0
+  },
+  {
+    "item": "Stone Brick Wall",
+    "total": 3276,
+    "missing": 3276,
+    "available": 0
+  },
+  {
+    "item": "Gray Stained Glass",
+    "total": 3004,
+    "missing": 3004,
+    "available": 0
+  },
+  {
+    "item": "Smooth Sandstone",
+    "total": 2532,
+    "missing": 2532,
+    "available": 0
+  },
+  {
+    "item": "Spruce Fence",
+    "total": 2426,
+    "missing": 2426,
+    "available": 0
+  },
+  {
+    "item": "Loom",
+    "total": 2306,
+    "missing": 2306,
+    "available": 0
+  },
+  {
+    "item": "Polished Granite Slab",
+    "total": 2183,
+    "missing": 2183,
+    "available": 0
+  },
+  {
+    "item": "Yellow Terracotta",
+    "total": 1998,
+    "missing": 1998,
+    "available": 0
+  },
+  {
+    "item": "Prismarine",
+    "total": 1858,
+    "missing": 1858,
+    "available": 0
+  },
+  {
+    "item": "Polished Blackstone Bricks",
+    "total": 1753,
+    "missing": 1753,
+    "available": 0
+  },
+  {
+    "item": "Spruce Sign",
+    "total": 1740,
+    "missing": 1740,
+    "available": 0
+  },
+  {
+    "item": "Polished Diorite",
+    "total": 1640,
+    "missing": 1640,
+    "available": 0
+  },
+  {
+    "item": "Lantern",
+    "total": 1526,
+    "missing": 1526,
+    "available": 0
+  },
+  {
+    "item": "Quartz Pillar",
+    "total": 1510,
+    "missing": 1510,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Log",
+    "total": 1509,
+    "missing": 1509,
+    "available": 0
+  },
+  {
+    "item": "Red Terracotta",
+    "total": 1489,
+    "missing": 1489,
+    "available": 0
+  },
+  {
+    "item": "Ancient Debris",
+    "total": 1325,
+    "missing": 1325,
+    "available": 0
+  },
+  {
+    "item": "Stone Stairs",
+    "total": 1304,
+    "missing": 1304,
+    "available": 0
+  },
+  {
+    "item": "Green Terracotta",
+    "total": 1222,
+    "missing": 1222,
+    "available": 0
+  },
+  {
+    "item": "Stripped Dark Oak Log",
+    "total": 1219,
+    "missing": 1219,
+    "available": 0
+  },
+  {
+    "item": "Stone Slab",
+    "total": 1192,
+    "missing": 1192,
+    "available": 0
+  },
+  {
+    "item": "Fire Coral Block",
+    "total": 1183,
+    "missing": 1183,
+    "available": 0
+  },
+  {
+    "item": "Brown Carpet",
+    "total": 1141,
+    "missing": 1141,
+    "available": 0
+  },
+  {
+    "item": "Stripped Acacia Wood",
+    "total": 1079,
+    "missing": 1079,
+    "available": 0
+  },
+  {
+    "item": "Red Carpet",
+    "total": 1060,
+    "missing": 1060,
+    "available": 0
+  },
+  {
+    "item": "Stripped Oak Wood",
+    "total": 1023,
+    "missing": 1023,
+    "available": 0
+  },
+  {
+    "item": "Brown Mushroom Block",
+    "total": 1015,
+    "missing": 1015,
+    "available": 0
+  },
+  {
+    "item": "Oak Log",
+    "total": 992,
+    "missing": 992,
+    "available": 0
+  },
+  {
+    "item": "Nether Bricks",
+    "total": 961,
+    "missing": 961,
+    "available": 0
+  },
+  {
+    "item": "Red Wool",
+    "total": 913,
+    "missing": 913,
+    "available": 0
+  },
+  {
+    "item": "Cauldron",
+    "total": 909,
+    "missing": 909,
+    "available": 0
+  },
+  {
+    "item": "Nether Wart Block",
+    "total": 858,
+    "missing": 858,
+    "available": 0
+  },
+  {
+    "item": "Light Gray Stained Glass",
+    "total": 841,
+    "missing": 841,
+    "available": 0
+  },
+  {
+    "item": "Smooth Sandstone Slab",
+    "total": 822,
+    "missing": 822,
+    "available": 0
+  },
+  {
+    "item": "Player Head",
+    "total": 808,
+    "missing": 808,
+    "available": 1
+  },
+  {
+    "item": "Yellow Wool",
+    "total": 768,
+    "missing": 768,
+    "available": 0
+  },
+  {
+    "item": "Polished Andesite Slab",
+    "total": 719,
+    "missing": 719,
+    "available": 0
+  },
+  {
+    "item": "Smooth Stone Slab",
+    "total": 709,
+    "missing": 709,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Sign",
+    "total": 682,
+    "missing": 682,
+    "available": 0
+  },
+  {
+    "item": "Green Wool",
+    "total": 663,
+    "missing": 663,
+    "available": 0
+  },
+  {
+    "item": "Nether Brick Slab",
+    "total": 652,
+    "missing": 652,
+    "available": 0
+  },
+  {
+    "item": "Light Gray Carpet",
+    "total": 649,
+    "missing": 649,
+    "available": 0
+  },
+  {
+    "item": "Spruce Wood",
+    "total": 645,
+    "missing": 645,
+    "available": 0
+  },
+  {
+    "item": "Infested Stone",
+    "total": 636,
+    "missing": 636,
+    "available": 0
+  },
+  {
+    "item": "Tripwire Hook",
+    "total": 623,
+    "missing": 623,
+    "available": 0
+  },
+  {
+    "item": "Iron Bars",
+    "total": 609,
+    "missing": 609,
+    "available": 0
+  },
+  {
+    "item": "Diorite Wall",
+    "total": 607,
+    "missing": 607,
+    "available": 0
+  },
+  {
+    "item": "Light Gray Wool",
+    "total": 604,
+    "missing": 604,
+    "available": 0
+  },
+  {
+    "item": "Blue Wool",
+    "total": 601,
+    "missing": 601,
+    "available": 0
+  },
+  {
+    "item": "Blue Carpet",
+    "total": 577,
+    "missing": 577,
+    "available": 0
+  },
+  {
+    "item": "Green Carpet",
+    "total": 576,
+    "missing": 576,
+    "available": 0
+  },
+  {
+    "item": "Ladder",
+    "total": 575,
+    "missing": 575,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Door",
+    "total": 545,
+    "missing": 545,
+    "available": 0
+  },
+  {
+    "item": "Brown Wool",
+    "total": 527,
+    "missing": 527,
+    "available": 0
+  },
+  {
+    "item": "Torch",
+    "total": 526,
+    "missing": 526,
+    "available": 0
+  },
+  {
+    "item": "Stripped Spruce Log",
+    "total": 523,
+    "missing": 523,
+    "available": 0
+  },
+  {
+    "item": "Black Stained Glass",
+    "total": 519,
+    "missing": 519,
+    "available": 0
+  },
+  {
+    "item": "Oak Sign",
+    "total": 509,
+    "missing": 509,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Wood",
+    "total": 494,
+    "missing": 494,
+    "available": 0
+  },
+  {
+    "item": "Cobweb",
+    "total": 492,
+    "missing": 492,
+    "available": 0
+  },
+  {
+    "item": "Flower Pot",
+    "total": 471,
+    "missing": 471,
+    "available": 0
+  },
+  {
+    "item": "Oak Trapdoor",
+    "total": 469,
+    "missing": 469,
+    "available": 0
+  },
+  {
+    "item": "Birch Leaves",
+    "total": 463,
+    "missing": 463,
+    "available": 0
+  },
+  {
+    "item": "Redstone Dust",
+    "total": 457,
+    "missing": 457,
+    "available": 0
+  },
+  {
+    "item": "Polished Andesite Stairs",
+    "total": 453,
+    "missing": 453,
+    "available": 0
+  },
+  {
+    "item": "Chest",
+    "total": 451,
+    "missing": 451,
+    "available": 0
+  },
+  {
+    "item": "Brown Concrete Powder",
+    "total": 442,
+    "missing": 442,
+    "available": 0
+  },
+  {
+    "item": "Chain",
+    "total": 413,
+    "missing": 413,
+    "available": 0
+  },
+  {
+    "item": "Glowstone",
+    "total": 411,
+    "missing": 411,
+    "available": 0
+  },
+  {
+    "item": "Brewing Stand",
+    "total": 405,
+    "missing": 405,
+    "available": 0
+  },
+  {
+    "item": "End Rod",
+    "total": 404,
+    "missing": 404,
+    "available": 0
+  },
+  {
+    "item": "Polished Basalt",
+    "total": 401,
+    "missing": 401,
+    "available": 0
+  },
+  {
+    "item": "Blast Furnace",
+    "total": 397,
+    "missing": 397,
+    "available": 0
+  },
+  {
+    "item": "Prismarine Bricks",
+    "total": 392,
+    "missing": 392,
+    "available": 0
+  },
+  {
+    "item": "Ice",
+    "total": 388,
+    "missing": 388,
+    "available": 0
+  },
+  {
+    "item": "Block of Gold",
+    "total": 385,
+    "missing": 385,
+    "available": 0
+  },
+  {
+    "item": "Yellow Carpet",
+    "total": 385,
+    "missing": 385,
+    "available": 0
+  },
+  {
+    "item": "Green Concrete Powder",
+    "total": 379,
+    "missing": 379,
+    "available": 0
+  },
+  {
+    "item": "Bedrock",
+    "total": 377,
+    "missing": 377,
+    "available": 0
+  },
+  {
+    "item": "Blue Concrete Powder",
+    "total": 362,
+    "missing": 362,
+    "available": 0
+  },
+  {
+    "item": "Spruce Leaves",
+    "total": 335,
+    "missing": 335,
+    "available": 0
+  },
+  {
+    "item": "Sea Pickle",
+    "total": 325,
+    "missing": 325,
+    "available": 0
+  },
+  {
+    "item": "Dark Prismarine Slab",
+    "total": 318,
+    "missing": 318,
+    "available": 0
+  },
+  {
+    "item": "Anvil",
+    "total": 311,
+    "missing": 311,
+    "available": 0
+  },
+  {
+    "item": "Light Blue Concrete",
+    "total": 310,
+    "missing": 310,
+    "available": 0
+  },
+  {
+    "item": "Blue Concrete",
+    "total": 306,
+    "missing": 306,
+    "available": 0
+  },
+  {
+    "item": "Purple Banner",
+    "total": 301,
+    "missing": 301,
+    "available": 0
+  },
+  {
+    "item": "Spruce Door",
+    "total": 287,
+    "missing": 287,
+    "available": 0
+  },
+  {
+    "item": "Black Wool",
+    "total": 282,
+    "missing": 282,
+    "available": 0
+  },
+  {
+    "item": "Red Mushroom Block",
+    "total": 282,
+    "missing": 282,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Fence Gate",
+    "total": 275,
+    "missing": 275,
+    "available": 0
+  },
+  {
+    "item": "Blue Banner",
+    "total": 272,
+    "missing": 272,
+    "available": 0
+  },
+  {
+    "item": "Red Banner",
+    "total": 266,
+    "missing": 266,
+    "available": 0
+  },
+  {
+    "item": "Command Block",
+    "total": 258,
+    "missing": 258,
+    "available": 1
+  },
+  {
+    "item": "Brown Banner",
+    "total": 257,
+    "missing": 257,
+    "available": 0
+  },
+  {
+    "item": "Yellow Banner",
+    "total": 256,
+    "missing": 256,
+    "available": 0
+  },
+  {
+    "item": "Black Concrete Powder",
+    "total": 255,
+    "missing": 255,
+    "available": 0
+  },
+  {
+    "item": "Block of Lapis Lazuli",
+    "total": 255,
+    "missing": 255,
+    "available": 0
+  },
+  {
+    "item": "Blue Ice",
+    "total": 241,
+    "missing": 241,
+    "available": 0
+  },
+  {
+    "item": "Nether Brick Wall",
+    "total": 241,
+    "missing": 241,
+    "available": 0
+  },
+  {
+    "item": "Purple Wool",
+    "total": 236,
+    "missing": 236,
+    "available": 0
+  },
+  {
+    "item": "Turtle Egg",
+    "total": 234,
+    "missing": 234,
+    "available": 0
+  },
+  {
+    "item": "Blue Terracotta",
+    "total": 232,
+    "missing": 232,
+    "available": 0
+  },
+  {
+    "item": "Black Carpet",
+    "total": 231,
+    "missing": 231,
+    "available": 0
+  },
+  {
+    "item": "Water Bucket",
+    "total": 231,
+    "missing": 231,
+    "available": 0
+  },
+  {
+    "item": "Scaffolding",
+    "total": 230,
+    "missing": 230,
+    "available": 0
+  },
+  {
+    "item": "Redstone Repeater",
+    "total": 228,
+    "missing": 228,
+    "available": 0
+  },
+  {
+    "item": "Smooth Quartz Stairs",
+    "total": 228,
+    "missing": 228,
+    "available": 0
+  },
+  {
+    "item": "Smooth Red Sandstone",
+    "total": 224,
+    "missing": 224,
+    "available": 0
+  },
+  {
+    "item": "Polished Granite Stairs",
+    "total": 220,
+    "missing": 220,
+    "available": 0
+  },
+  {
+    "item": "Nether Brick Stairs",
+    "total": 219,
+    "missing": 219,
+    "available": 0
+  },
+  {
+    "item": "Dried Kelp Block",
+    "total": 215,
+    "missing": 215,
+    "available": 0
+  },
+  {
+    "item": "Block of Quartz",
+    "total": 210,
+    "missing": 210,
+    "available": 0
+  },
+  {
+    "item": "Gray Wool",
+    "total": 204,
+    "missing": 204,
+    "available": 0
+  },
+  {
+    "item": "Red Nether Brick Stairs",
+    "total": 203,
+    "missing": 203,
+    "available": 0
+  },
+  {
+    "item": "Purpur Block",
+    "total": 196,
+    "missing": 196,
+    "available": 0
+  },
+  {
+    "item": "Stripped Crimson Hyphae",
+    "total": 191,
+    "missing": 191,
+    "available": 0
+  },
+  {
+    "item": "Green Banner",
+    "total": 186,
+    "missing": 186,
+    "available": 0
+  },
+  {
+    "item": "Oak Planks",
+    "total": 185,
+    "missing": 185,
+    "available": 0
+  },
+  {
+    "item": "Smooth Quartz Block",
+    "total": 184,
+    "missing": 184,
+    "available": 0
+  },
+  {
+    "item": "Jungle Leaves",
+    "total": 182,
+    "missing": 182,
+    "available": 0
+  },
+  {
+    "item": "Purple Carpet",
+    "total": 181,
+    "missing": 181,
+    "available": 0
+  },
+  {
+    "item": "Lectern",
+    "total": 180,
+    "missing": 180,
+    "available": 0
+  },
+  {
+    "item": "Mossy Cobblestone Slab",
+    "total": 176,
+    "missing": 176,
+    "available": 0
+  },
+  {
+    "item": "Spruce Pressure Plate",
+    "total": 174,
+    "missing": 174,
+    "available": 0
+  },
+  {
+    "item": "Brown Shulker Box",
+    "total": 164,
+    "missing": 164,
+    "available": 0
+  },
+  {
+    "item": "Mossy Cobblestone Stairs",
+    "total": 160,
+    "missing": 160,
+    "available": 0
+  },
+  {
+    "item": "Andesite Wall",
+    "total": 159,
+    "missing": 159,
+    "available": 0
+  },
+  {
+    "item": "Barrier",
+    "total": 159,
+    "missing": 159,
+    "available": 0
+  },
+  {
+    "item": "Jungle Planks",
+    "total": 158,
+    "missing": 158,
+    "available": 0
+  },
+  {
+    "item": "Packed Ice",
+    "total": 156,
+    "missing": 156,
+    "available": 0
+  },
+  {
+    "item": "Snow",
+    "total": 155,
+    "missing": 155,
+    "available": 0
+  },
+  {
+    "item": "Lime Terracotta",
+    "total": 152,
+    "missing": 152,
+    "available": 0
+  },
+  {
+    "item": "Red Concrete",
+    "total": 149,
+    "missing": 149,
+    "available": 0
+  },
+  {
+    "item": "Terracotta",
+    "total": 148,
+    "missing": 148,
+    "available": 0
+  },
+  {
+    "item": "Jungle Stairs",
+    "total": 142,
+    "missing": 142,
+    "available": 0
+  },
+  {
+    "item": "Dark Prismarine Stairs",
+    "total": 141,
+    "missing": 141,
+    "available": 0
+  },
+  {
+    "item": "Daylight Detector",
+    "total": 138,
+    "missing": 138,
+    "available": 0
+  },
+  {
+    "item": "Redstone Torch",
+    "total": 134,
+    "missing": 134,
+    "available": 0
+  },
+  {
+    "item": "Warped Wart Block",
+    "total": 133,
+    "missing": 133,
+    "available": 0
+  },
+  {
+    "item": "Netherrack",
+    "total": 125,
+    "missing": 125,
+    "available": 0
+  },
+  {
+    "item": "Cartography Table",
+    "total": 124,
+    "missing": 124,
+    "available": 0
+  },
+  {
+    "item": "Green Concrete",
+    "total": 122,
+    "missing": 122,
+    "available": 0
+  },
+  {
+    "item": "Slime Block",
+    "total": 122,
+    "missing": 122,
+    "available": 0
+  },
+  {
+    "item": "Oak Slab",
+    "total": 120,
+    "missing": 120,
+    "available": 0
+  },
+  {
+    "item": "Black Banner",
+    "total": 119,
+    "missing": 119,
+    "available": 0
+  },
+  {
+    "item": "Mossy Stone Brick Stairs",
+    "total": 114,
+    "missing": 114,
+    "available": 0
+  },
+  {
+    "item": "Quartz Stairs",
+    "total": 111,
+    "missing": 111,
+    "available": 0
+  },
+  {
+    "item": "Mossy Stone Brick Slab",
+    "total": 109,
+    "missing": 109,
+    "available": 0
+  },
+  {
+    "item": "Red Concrete Powder",
+    "total": 107,
+    "missing": 107,
+    "available": 0
+  },
+  {
+    "item": "Bamboo",
+    "total": 105,
+    "missing": 105,
+    "available": 0
+  },
+  {
+    "item": "Birch Button",
+    "total": 100,
+    "missing": 100,
+    "available": 0
+  },
+  {
+    "item": "Cyan Terracotta",
+    "total": 100,
+    "missing": 100,
+    "available": 0
+  },
+  {
+    "item": "Iron Trapdoor",
+    "total": 100,
+    "missing": 100,
+    "available": 0
+  },
+  {
+    "item": "Yellow Shulker Box",
+    "total": 99,
+    "missing": 99,
+    "available": 0
+  },
+  {
+    "item": "Prismarine Stairs",
+    "total": 96,
+    "missing": 96,
+    "available": 0
+  },
+  {
+    "item": "Gray Carpet",
+    "total": 95,
+    "missing": 95,
+    "available": 0
+  },
+  {
+    "item": "Green Stained Glass",
+    "total": 95,
+    "missing": 95,
+    "available": 0
+  },
+  {
+    "item": "Red Nether Brick Slab",
+    "total": 95,
+    "missing": 95,
+    "available": 0
+  },
+  {
+    "item": "Blue Shulker Box",
+    "total": 94,
+    "missing": 94,
+    "available": 0
+  },
+  {
+    "item": "Oak Pressure Plate",
+    "total": 94,
+    "missing": 94,
+    "available": 0
+  },
+  {
+    "item": "Green Bed",
+    "total": 92,
+    "missing": 92,
+    "available": 0
+  },
+  {
+    "item": "Spruce Fence Gate",
+    "total": 91,
+    "missing": 91,
+    "available": 0
+  },
+  {
+    "item": "Hay Bale",
+    "total": 90,
+    "missing": 90,
+    "available": 0
+  },
+  {
+    "item": "Jungle Log",
+    "total": 88,
+    "missing": 88,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Pressure Plate",
+    "total": 87,
+    "missing": 87,
+    "available": 0
+  },
+  {
+    "item": "Polished Diorite Stairs",
+    "total": 87,
+    "missing": 87,
+    "available": 0
+  },
+  {
+    "item": "Prismarine Brick Stairs",
+    "total": 87,
+    "missing": 87,
+    "available": 0
+  },
+  {
+    "item": "Diorite Slab",
+    "total": 86,
+    "missing": 86,
+    "available": 0
+  },
+  {
+    "item": "Lever",
+    "total": 85,
+    "missing": 85,
+    "available": 0
+  },
+  {
+    "item": "White Banner",
+    "total": 84,
+    "missing": 84,
+    "available": 0
+  },
+  {
+    "item": "Sticky Piston",
+    "total": 79,
+    "missing": 79,
+    "available": 0
+  },
+  {
+    "item": "Warped Planks",
+    "total": 77,
+    "missing": 77,
+    "available": 0
+  },
+  {
+    "item": "Cornflower",
+    "total": 76,
+    "missing": 76,
+    "available": 0
+  },
+  {
+    "item": "Lodestone",
+    "total": 76,
+    "missing": 76,
+    "available": 0
+  },
+  {
+    "item": "Bone Block",
+    "total": 75,
+    "missing": 75,
+    "available": 0
+  },
+  {
+    "item": "Jungle Trapdoor",
+    "total": 75,
+    "missing": 75,
+    "available": 0
+  },
+  {
+    "item": "Stone Button",
+    "total": 73,
+    "missing": 73,
+    "available": 0
+  },
+  {
+    "item": "Bell",
+    "total": 72,
+    "missing": 72,
+    "available": 0
+  },
+  {
+    "item": "Lime Wool",
+    "total": 72,
+    "missing": 72,
+    "available": 0
+  },
+  {
+    "item": "Cut Sandstone",
+    "total": 71,
+    "missing": 71,
+    "available": 0
+  },
+  {
+    "item": "Sea Lantern",
+    "total": 71,
+    "missing": 71,
+    "available": 0
+  },
+  {
+    "item": "Andesite Stairs",
+    "total": 70,
+    "missing": 70,
+    "available": 0
+  },
+  {
+    "item": "Red Nether Bricks",
+    "total": 70,
+    "missing": 70,
+    "available": 0
+  },
+  {
+    "item": "Orange Carpet",
+    "total": 69,
+    "missing": 69,
+    "available": 0
+  },
+  {
+    "item": "Seagrass",
+    "total": 69,
+    "missing": 69,
+    "available": 0
+  },
+  {
+    "item": "Gray Banner",
+    "total": 68,
+    "missing": 68,
+    "available": 0
+  },
+  {
+    "item": "Rail",
+    "total": 66,
+    "missing": 66,
+    "available": 0
+  },
+  {
+    "item": "Stripped Warped Hyphae",
+    "total": 63,
+    "missing": 63,
+    "available": 0
+  },
+  {
+    "item": "Brown Bed",
+    "total": 62,
+    "missing": 62,
+    "available": 0
+  },
+  {
+    "item": "Composter",
+    "total": 60,
+    "missing": 60,
+    "available": 0
+  },
+  {
+    "item": "Prismarine Brick Slab",
+    "total": 57,
+    "missing": 57,
+    "available": 0
+  },
+  {
+    "item": "Smooth Sandstone Stairs",
+    "total": 56,
+    "missing": 56,
+    "available": 0
+  },
+  {
+    "item": "Sponge",
+    "total": 55,
+    "missing": 55,
+    "available": 0
+  },
+  {
+    "item": "Stone Pressure Plate",
+    "total": 53,
+    "missing": 53,
+    "available": 0
+  },
+  {
+    "item": "Black Stained Glass Pane",
+    "total": 51,
+    "missing": 51,
+    "available": 0
+  },
+  {
+    "item": "Purpur Slab",
+    "total": 51,
+    "missing": 51,
+    "available": 0
+  },
+  {
+    "item": "Tube Coral Block",
+    "total": 51,
+    "missing": 51,
+    "available": 0
+  },
+  {
+    "item": "Blue Bed",
+    "total": 50,
+    "missing": 50,
+    "available": 0
+  },
+  {
+    "item": "Red Stained Glass",
+    "total": 48,
+    "missing": 48,
+    "available": 0
+  },
+  {
+    "item": "Diorite Stairs",
+    "total": 47,
+    "missing": 47,
+    "available": 0
+  },
+  {
+    "item": "Azure Bluet",
+    "total": 46,
+    "missing": 46,
+    "available": 0
+  },
+  {
+    "item": "Polished Blackstone Brick Stairs",
+    "total": 46,
+    "missing": 46,
+    "available": 0
+  },
+  {
+    "item": "Light Gray Banner",
+    "total": 45,
+    "missing": 45,
+    "available": 0
+  },
+  {
+    "item": "Note Block",
+    "total": 45,
+    "missing": 45,
+    "available": 0
+  },
+  {
+    "item": "Ender Chest",
+    "total": 44,
+    "missing": 44,
+    "available": 0
+  },
+  {
+    "item": "Birch Fence",
+    "total": 42,
+    "missing": 42,
+    "available": 0
+  },
+  {
+    "item": "Glass",
+    "total": 41,
+    "missing": 41,
+    "available": 0
+  },
+  {
+    "item": "Green Shulker Box",
+    "total": 41,
+    "missing": 41,
+    "available": 0
+  },
+  {
+    "item": "Purpur Pillar",
+    "total": 41,
+    "missing": 41,
+    "available": 0
+  },
+  {
+    "item": "Soul Lantern",
+    "total": 41,
+    "missing": 41,
+    "available": 0
+  },
+  {
+    "item": "Hopper",
+    "total": 39,
+    "missing": 39,
+    "available": 0
+  },
+  {
+    "item": "Light Blue Banner",
+    "total": 39,
+    "missing": 39,
+    "available": 0
+  },
+  {
+    "item": "Light Gray Stained Glass Pane",
+    "total": 39,
+    "missing": 39,
+    "available": 0
+  },
+  {
+    "item": "Oak Button",
+    "total": 39,
+    "missing": 39,
+    "available": 0
+  },
+  {
+    "item": "Quartz Slab",
+    "total": 39,
+    "missing": 39,
+    "available": 0
+  },
+  {
+    "item": "Basalt",
+    "total": 38,
+    "missing": 38,
+    "available": 0
+  },
+  {
+    "item": "Observer",
+    "total": 38,
+    "missing": 38,
+    "available": 0
+  },
+  {
+    "item": "Dispenser",
+    "total": 37,
+    "missing": 37,
+    "available": 0
+  },
+  {
+    "item": "Red Bed",
+    "total": 37,
+    "missing": 37,
+    "available": 0
+  },
+  {
+    "item": "Light Gray Concrete",
+    "total": 36,
+    "missing": 36,
+    "available": 0
+  },
+  {
+    "item": "Blue Stained Glass",
+    "total": 35,
+    "missing": 35,
+    "available": 0
+  },
+  {
+    "item": "Cake",
+    "total": 35,
+    "missing": 35,
+    "available": 0
+  },
+  {
+    "item": "Carved Pumpkin",
+    "total": 35,
+    "missing": 35,
+    "available": 0
+  },
+  {
+    "item": "Dead Bush",
+    "total": 35,
+    "missing": 35,
+    "available": 0
+  },
+  {
+    "item": "Polished Diorite Slab",
+    "total": 35,
+    "missing": 35,
+    "available": 0
+  },
+  {
+    "item": "Water Bottle",
+    "total": 35,
+    "missing": 35,
+    "available": 0
+  },
+  {
+    "item": "Gray Concrete Powder",
+    "total": 34,
+    "missing": 34,
+    "available": 0
+  },
+  {
+    "item": "Smooth Red Sandstone Stairs",
+    "total": 34,
+    "missing": 34,
+    "available": 0
+  },
+  {
+    "item": "String",
+    "total": 34,
+    "missing": 34,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Button",
+    "total": 33,
+    "missing": 33,
+    "available": 0
+  },
+  {
+    "item": "Jungle Sign",
+    "total": 33,
+    "missing": 33,
+    "available": 0
+  },
+  {
+    "item": "Skeleton Skull",
+    "total": 33,
+    "missing": 33,
+    "available": 0
+  },
+  {
+    "item": "Spruce Button",
+    "total": 33,
+    "missing": 33,
+    "available": 0
+  },
+  {
+    "item": "Andesite Slab",
+    "total": 32,
+    "missing": 32,
+    "available": 0
+  },
+  {
+    "item": "Crimson Planks",
+    "total": 32,
+    "missing": 32,
+    "available": 0
+  },
+  {
+    "item": "Cyan Carpet",
+    "total": 32,
+    "missing": 32,
+    "available": 0
+  },
+  {
+    "item": "Yellow Glazed Terracotta",
+    "total": 32,
+    "missing": 32,
+    "available": 0
+  },
+  {
+    "item": "Pink Concrete Powder",
+    "total": 31,
+    "missing": 31,
+    "available": 0
+  },
+  {
+    "item": "White Wool",
+    "total": 31,
+    "missing": 31,
+    "available": 0
+  },
+  {
+    "item": "Light Blue Glazed Terracotta",
+    "total": 30,
+    "missing": 30,
+    "available": 0
+  },
+  {
+    "item": "Mushroom Stem",
+    "total": 30,
+    "missing": 30,
+    "available": 0
+  },
+  {
+    "item": "Pink Terracotta",
+    "total": 30,
+    "missing": 30,
+    "available": 0
+  },
+  {
+    "item": "Birch Slab",
+    "total": 29,
+    "missing": 29,
+    "available": 0
+  },
+  {
+    "item": "Jukebox",
+    "total": 28,
+    "missing": 28,
+    "available": 0
+  },
+  {
+    "item": "Red Shulker Box",
+    "total": 27,
+    "missing": 27,
+    "available": 0
+  },
+  {
+    "item": "Orange Banner",
+    "total": 26,
+    "missing": 26,
+    "available": 0
+  },
+  {
+    "item": "Twisting Vines",
+    "total": 26,
+    "missing": 26,
+    "available": 0
+  },
+  {
+    "item": "Wet Sponge",
+    "total": 26,
+    "missing": 26,
+    "available": 0
+  },
+  {
+    "item": "Beehive",
+    "total": 25,
+    "missing": 25,
+    "available": 0
+  },
+  {
+    "item": "Block of Iron",
+    "total": 25,
+    "missing": 25,
+    "available": 0
+  },
+  {
+    "item": "Gray Terracotta",
+    "total": 25,
+    "missing": 25,
+    "available": 0
+  },
+  {
+    "item": "Purple Concrete Powder",
+    "total": 25,
+    "missing": 25,
+    "available": 0
+  },
+  {
+    "item": "Cyan Concrete",
+    "total": 24,
+    "missing": 24,
+    "available": 0
+  },
+  {
+    "item": "Iron Door",
+    "total": 23,
+    "missing": 23,
+    "available": 0
+  },
+  {
+    "item": "Smooth Quartz Slab",
+    "total": 23,
+    "missing": 23,
+    "available": 0
+  },
+  {
+    "item": "Tall Grass",
+    "total": 23,
+    "missing": 23,
+    "available": 0
+  },
+  {
+    "item": "End Portal Frame",
+    "total": 22,
+    "missing": 22,
+    "available": 1
+  },
+  {
+    "item": "Stripped Oak Log",
+    "total": 22,
+    "missing": 22,
+    "available": 0
+  },
+  {
+    "item": "White Terracotta",
+    "total": 22,
+    "missing": 22,
+    "available": 0
+  },
+  {
+    "item": "Wither Rose",
+    "total": 22,
+    "missing": 22,
+    "available": 0
+  },
+  {
+    "item": "Blue Glazed Terracotta",
+    "total": 21,
+    "missing": 21,
+    "available": 0
+  },
+  {
+    "item": "Granite Wall",
+    "total": 21,
+    "missing": 21,
+    "available": 0
+  },
+  {
+    "item": "Magenta Terracotta",
+    "total": 21,
+    "missing": 21,
+    "available": 0
+  },
+  {
+    "item": "Acacia Wood",
+    "total": 20,
+    "missing": 20,
+    "available": 0
+  },
+  {
+    "item": "Gray Glazed Terracotta",
+    "total": 20,
+    "missing": 20,
+    "available": 0
+  },
+  {
+    "item": "Jack o'Lantern",
+    "total": 20,
+    "missing": 20,
+    "available": 0
+  },
+  {
+    "item": "Red Glazed Terracotta",
+    "total": 20,
+    "missing": 20,
+    "available": 0
+  },
+  {
+    "item": "Redstone Lamp",
+    "total": 20,
+    "missing": 20,
+    "available": 0
+  },
+  {
+    "item": "White Carpet",
+    "total": 20,
+    "missing": 20,
+    "available": 0
+  },
+  {
+    "item": "Cyan Bed",
+    "total": 19,
+    "missing": 19,
+    "available": 0
+  },
+  {
+    "item": "Melon",
+    "total": 19,
+    "missing": 19,
+    "available": 0
+  },
+  {
+    "item": "Sweet Berries",
+    "total": 19,
+    "missing": 19,
+    "available": 0
+  },
+  {
+    "item": "Light Gray Terracotta",
+    "total": 18,
+    "missing": 18,
+    "available": 0
+  },
+  {
+    "item": "Orange Terracotta",
+    "total": 18,
+    "missing": 18,
+    "available": 0
+  },
+  {
+    "item": "Repeating Command Block",
+    "total": 18,
+    "missing": 18,
+    "available": 0
+  },
+  {
+    "item": "White Concrete",
+    "total": 18,
+    "missing": 18,
+    "available": 0
+  },
+  {
+    "item": "Wither Skeleton Skull",
+    "total": 18,
+    "missing": 18,
+    "available": 0
+  },
+  {
+    "item": "Dirt Path",
+    "total": 17,
+    "missing": 17,
+    "available": 0
+  },
+  {
+    "item": "Jungle Sapling",
+    "total": 17,
+    "missing": 17,
+    "available": 0
+  },
+  {
+    "item": "Magenta Carpet",
+    "total": 17,
+    "missing": 17,
+    "available": 0
+  },
+  {
+    "item": "Polished Blackstone Brick Wall",
+    "total": 17,
+    "missing": 17,
+    "available": 0
+  },
+  {
+    "item": "Purple Terracotta",
+    "total": 17,
+    "missing": 17,
+    "available": 0
+  },
+  {
+    "item": "Red Tulip",
+    "total": 17,
+    "missing": 17,
+    "available": 0
+  },
+  {
+    "item": "White Stained Glass",
+    "total": 17,
+    "missing": 17,
+    "available": 0
+  },
+  {
+    "item": "Black Glazed Terracotta",
+    "total": 16,
+    "missing": 16,
+    "available": 0
+  },
+  {
+    "item": "Brown Glazed Terracotta",
+    "total": 16,
+    "missing": 16,
+    "available": 0
+  },
+  {
+    "item": "Enchanting Table",
+    "total": 16,
+    "missing": 16,
+    "available": 0
+  },
+  {
+    "item": "Green Glazed Terracotta",
+    "total": 16,
+    "missing": 16,
+    "available": 0
+  },
+  {
+    "item": "Light Blue Carpet",
+    "total": 16,
+    "missing": 16,
+    "available": 0
+  },
+  {
+    "item": "Orange Bed",
+    "total": 16,
+    "missing": 16,
+    "available": 0
+  },
+  {
+    "item": "Light Blue Terracotta",
+    "total": 15,
+    "missing": 15,
+    "available": 0
+  },
+  {
+    "item": "Lily of the Valley",
+    "total": 15,
+    "missing": 15,
+    "available": 0
+  },
+  {
+    "item": "Powered Rail",
+    "total": 15,
+    "missing": 15,
+    "available": 0
+  },
+  {
+    "item": "Allium",
+    "total": 14,
+    "missing": 14,
+    "available": 0
+  },
+  {
+    "item": "Purpur Stairs",
+    "total": 14,
+    "missing": 14,
+    "available": 0
+  },
+  {
+    "item": "Orange Wool",
+    "total": 13,
+    "missing": 13,
+    "available": 0
+  },
+  {
+    "item": "Purple Shulker Box",
+    "total": 13,
+    "missing": 13,
+    "available": 0
+  },
+  {
+    "item": "Target",
+    "total": 13,
+    "missing": 13,
+    "available": 0
+  },
+  {
+    "item": "Block of Redstone",
+    "total": 12,
+    "missing": 12,
+    "available": 0
+  },
+  {
+    "item": "Lime Glazed Terracotta",
+    "total": 12,
+    "missing": 12,
+    "available": 0
+  },
+  {
+    "item": "Nether Brick Fence",
+    "total": 12,
+    "missing": 12,
+    "available": 0
+  },
+  {
+    "item": "Yellow Stained Glass",
+    "total": 12,
+    "missing": 12,
+    "available": 0
+  },
+  {
+    "item": "Dropper",
+    "total": 11,
+    "missing": 11,
+    "available": 0
+  },
+  {
+    "item": "Light Gray Bed",
+    "total": 11,
+    "missing": 11,
+    "available": 0
+  },
+  {
+    "item": "Lily Pad",
+    "total": 11,
+    "missing": 11,
+    "available": 0
+  },
+  {
+    "item": "Pink Carpet",
+    "total": 11,
+    "missing": 11,
+    "available": 0
+  },
+  {
+    "item": "Piston",
+    "total": 11,
+    "missing": 11,
+    "available": 0
+  },
+  {
+    "item": "Purple Bed",
+    "total": 11,
+    "missing": 11,
+    "available": 0
+  },
+  {
+    "item": "Redstone Comparator",
+    "total": 11,
+    "missing": 11,
+    "available": 0
+  },
+  {
+    "item": "Smoker",
+    "total": 11,
+    "missing": 11,
+    "available": 0
+  },
+  {
+    "item": "Beetroot Seeds",
+    "total": 10,
+    "missing": 10,
+    "available": 0
+  },
+  {
+    "item": "Birch Trapdoor",
+    "total": 10,
+    "missing": 10,
+    "available": 0
+  },
+  {
+    "item": "Brick Slab",
+    "total": 10,
+    "missing": 10,
+    "available": 0
+  },
+  {
+    "item": "Crimson Stairs",
+    "total": 10,
+    "missing": 10,
+    "available": 0
+  },
+  {
+    "item": "Magenta Bed",
+    "total": 10,
+    "missing": 10,
+    "available": 0
+  },
+  {
+    "item": "Beacon",
+    "total": 9,
+    "missing": 9,
+    "available": 0
+  },
+  {
+    "item": "Black Shulker Box",
+    "total": 9,
+    "missing": 9,
+    "available": 0
+  },
+  {
+    "item": "Bubble Coral Block",
+    "total": 9,
+    "missing": 9,
+    "available": 0
+  },
+  {
+    "item": "Crafting Table",
+    "total": 9,
+    "missing": 9,
+    "available": 0
+  },
+  {
+    "item": "Grindstone",
+    "total": 9,
+    "missing": 9,
+    "available": 0
+  },
+  {
+    "item": "Honeycomb Block",
+    "total": 9,
+    "missing": 9,
+    "available": 0
+  },
+  {
+    "item": "Pink Banner",
+    "total": 9,
+    "missing": 9,
+    "available": 0
+  },
+  {
+    "item": "Soul Soil",
+    "total": 9,
+    "missing": 9,
+    "available": 0
+  },
+  {
+    "item": "Cactus",
+    "total": 8,
+    "missing": 8,
+    "available": 0
+  },
+  {
+    "item": "Chiseled Polished Blackstone",
+    "total": 8,
+    "missing": 8,
+    "available": 0
+  },
+  {
+    "item": "Crimson Stem",
+    "total": 8,
+    "missing": 8,
+    "available": 0
+  },
+  {
+    "item": "Pumpkin",
+    "total": 8,
+    "missing": 8,
+    "available": 0
+  },
+  {
+    "item": "Purple Glazed Terracotta",
+    "total": 8,
+    "missing": 8,
+    "available": 0
+  },
+  {
+    "item": "Red Mushroom",
+    "total": 8,
+    "missing": 8,
+    "available": 0
+  },
+  {
+    "item": "Smooth Red Sandstone Slab",
+    "total": 8,
+    "missing": 8,
+    "available": 0
+  },
+  {
+    "item": "Spruce Sapling",
+    "total": 8,
+    "missing": 8,
+    "available": 0
+  },
+  {
+    "item": "Warped Nylium",
+    "total": 8,
+    "missing": 8,
+    "available": 0
+  },
+  {
+    "item": "Yellow Bed",
+    "total": 8,
+    "missing": 8,
+    "available": 0
+  },
+  {
+    "item": "Acacia Button",
+    "total": 7,
+    "missing": 7,
+    "available": 0
+  },
+  {
+    "item": "Block of Emerald",
+    "total": 7,
+    "missing": 7,
+    "available": 0
+  },
+  {
+    "item": "Brown Mushroom",
+    "total": 7,
+    "missing": 7,
+    "available": 0
+  },
+  {
+    "item": "Campfire",
+    "total": 7,
+    "missing": 7,
+    "available": 0
+  },
+  {
+    "item": "Chiseled Sandstone",
+    "total": 7,
+    "missing": 7,
+    "available": 0
+  },
+  {
+    "item": "Conduit",
+    "total": 7,
+    "missing": 7,
+    "available": 0
+  },
+  {
+    "item": "Dark Oak Sapling",
+    "total": 7,
+    "missing": 7,
+    "available": 0
+  },
+  {
+    "item": "Dragon Egg",
+    "total": 7,
+    "missing": 7,
+    "available": 0
+  },
+  {
+    "item": "Furnace",
+    "total": 7,
+    "missing": 7,
+    "available": 0
+  },
+  {
+    "item": "Gray Bed",
+    "total": 7,
+    "missing": 7,
+    "available": 0
+  },
+  {
+    "item": "Poppy",
+    "total": 7,
+    "missing": 7,
+    "available": 0
+  },
+  {
+    "item": "Trapped Chest",
+    "total": 7,
+    "missing": 7,
+    "available": 0
+  },
+  {
+    "item": "Weeping Vines",
+    "total": 7,
+    "missing": 7,
+    "available": 0
+  },
+  {
+    "item": "White Concrete Powder",
+    "total": 7,
+    "missing": 7,
+    "available": 0
+  },
+  {
+    "item": "Block of Diamond",
+    "total": 6,
+    "missing": 6,
+    "available": 0
+  },
+  {
+    "item": "Brown Terracotta",
+    "total": 6,
+    "missing": 6,
+    "available": 0
+  },
+  {
+    "item": "Crimson Sign",
+    "total": 6,
+    "missing": 6,
+    "available": 0
+  },
+  {
+    "item": "Dandelion",
+    "total": 6,
+    "missing": 6,
+    "available": 0
+  },
+  {
+    "item": "Granite",
+    "total": 6,
+    "missing": 6,
+    "available": 0
+  },
+  {
+    "item": "Heavy Weighted Pressure Plate",
+    "total": 6,
+    "missing": 6,
+    "available": 0
+  },
+  {
+    "item": "Large Fern",
+    "total": 6,
+    "missing": 6,
+    "available": 0
+  },
+  {
+    "item": "Mossy Stone Brick Wall",
+    "total": 6,
+    "missing": 6,
+    "available": 0
+  },
+  {
+    "item": "Orange Shulker Box",
+    "total": 6,
+    "missing": 6,
+    "available": 0
+  },
+  {
+    "item": "Orange Tulip",
+    "total": 6,
+    "missing": 6,
+    "available": 0
+  },
+  {
+    "item": "Red Nether Brick Wall",
+    "total": 6,
+    "missing": 6,
+    "available": 0
+  },
+  {
+    "item": "Snow Block",
+    "total": 6,
+    "missing": 6,
+    "available": 0
+  },
+  {
+    "item": "Soul Torch",
+    "total": 6,
+    "missing": 6,
+    "available": 0
+  },
+  {
+    "item": "Block of Netherite",
+    "total": 5,
+    "missing": 5,
+    "available": 0
+  },
+  {
+    "item": "Chiseled Stone Bricks",
+    "total": 5,
+    "missing": 5,
+    "available": 0
+  },
+  {
+    "item": "Crimson Pressure Plate",
+    "total": 5,
+    "missing": 5,
+    "available": 0
+  },
+  {
+    "item": "Crimson Trapdoor",
+    "total": 5,
+    "missing": 5,
+    "available": 0
+  },
+  {
+    "item": "Cyan Wool",
+    "total": 5,
+    "missing": 5,
+    "available": 0
+  },
+  {
+    "item": "End Stone Brick Stairs",
+    "total": 5,
+    "missing": 5,
+    "available": 0
+  },
+  {
+    "item": "Gilded Blackstone",
+    "total": 5,
+    "missing": 5,
+    "available": 0
+  },
+  {
+    "item": "Light Blue Wool",
+    "total": 5,
+    "missing": 5,
+    "available": 0
+  },
+  {
+    "item": "Oak Fence",
+    "total": 5,
+    "missing": 5,
+    "available": 0
+  },
+  {
+    "item": "Potato",
+    "total": 5,
+    "missing": 5,
+    "available": 0
+  },
+  {
+    "item": "Spruce Log",
+    "total": 5,
+    "missing": 5,
+    "available": 0
+  },
+  {
+    "item": "Acacia Sapling",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Acacia Trapdoor",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Birch Sign",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Cracked Polished Blackstone Bricks",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Crimson Fungus",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Crimson Hyphae",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Dragon Head",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Fern",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Light Gray Concrete Powder",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Light Weighted Pressure Plate",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Lime Carpet",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Monster Spawner",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Oak Stairs",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Pink Bed",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Polished Blackstone Pressure Plate",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Shroomlight",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Soul Sand",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "White Glazed Terracotta",
+    "total": 4,
+    "missing": 4,
+    "available": 0
+  },
+  {
+    "item": "Bee Nest",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Birch Fence Gate",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Crimson Button",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "End Stone Brick Slab",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Infested Stone Bricks",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Jungle Slab",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Lime Banner",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Nether Gold Ore",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Nether Wart",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Pink Wool",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Polished Blackstone Brick Slab",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "White Stained Glass Pane",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "White Tulip",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Yellow Concrete Powder",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Zombie Head",
+    "total": 3,
+    "missing": 3,
+    "available": 0
+  },
+  {
+    "item": "Black Bed",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Blackstone Slab",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Blue Orchid",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Chain Command Block",
+    "total": 2,
+    "missing": 2,
+    "available": 1
+  },
+  {
+    "item": "Chiseled Quartz Block",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Clay",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Cyan Glazed Terracotta",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Jungle Door",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Jungle Pressure Plate",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Lime Bed",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Lime Shulker Box",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Magenta Banner",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Magenta Wool",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Magma Block",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Oak Fence Gate",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Orange Glazed Terracotta",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Pink Tulip",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Smithing Table",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "TNT",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Warped Hyphae",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Warped Roots",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "White Bed",
+    "total": 2,
+    "missing": 2,
+    "available": 0
+  },
+  {
+    "item": "Acacia Fence",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Acacia Fence Gate",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Birch Door",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Birch Pressure Plate",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Birch Stairs",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Blackstone",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Brain Coral Block",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Creeper Head",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Crimson Door",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Crimson Fence",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Crimson Nylium",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Crimson Roots",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Crimson Slab",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Crying Obsidian",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Dead Brain Coral",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Dead Bubble Coral",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Dead Horn Coral Fan",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Dead Tube Coral Fan",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "End Stone",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Fire Coral",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Horn Coral Block",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Lilac",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Melon Seeds",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Mycelium",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Nether Quartz Ore",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Nether Sprouts",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Oak Door",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Oak Sapling",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Pink Shulker Box",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Polished Blackstone Button",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Prismarine Slab",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Redstone Ore",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Respawn Anchor",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Rose Bush",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Tube Coral",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Warped Fungus",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  },
+  {
+    "item": "Wheat Seeds",
+    "total": 1,
+    "missing": 1,
+    "available": 0
+  }
+]
