@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Matériaux - HarryPotter.json</title>
+  <title>Matériaux - HarryPotter</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     .block-icon {
@@ -134,7 +134,7 @@
 
     searchInput.addEventListener("input", updateFilteredData);
 
-    fetch('./material_list_cathédrale_Amiens.json')
+    fetch('./material_list_HarryPotter.json')
       .then(response => response.json())
       .then(json => {
         data = json;
@@ -146,4 +146,5 @@
   </script>
 </body>
 </html>
+
 
